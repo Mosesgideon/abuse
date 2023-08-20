@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565645807712",
+    "project_id": "abuse-e6750",
+    "storage_bucket": "abuse-e6750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565645807712:android:a28dec9542b12011fdb305",
+        "android_client_info": {
+          "package_name": "com.example.abuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565645807712-43i86evrjur6vhhf77lf79m5o2rmjp18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjhU6B4_JJyyLw2inAkOguJasn209ZEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565645807712-43i86evrjur6vhhf77lf79m5o2rmjp18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
